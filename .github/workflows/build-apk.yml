@@ -1,4 +1,4 @@
-name: Build Android APK (A«»M)
+name: Build Android APK - AM
 
 on:
   push:
